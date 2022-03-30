@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    background-color:#cccccc;
+    padding: 2%;
+}
+.logo >p{
+    font-size: 24px;
+    font-weight: bold;
+}
+.links{
+    background-color: black;
+    color: #fff;
+}
+ul{
+    padding: 15px 10px;
+}
+li{
+    text-align: center;
+    display: inline;
+    border-right: 1px solid white;
+    padding: 15px 10px;
+}
+li a{
+    /* display: block; */
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+}
+
